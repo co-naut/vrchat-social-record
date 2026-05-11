@@ -96,17 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: brewski
-theme_config:
-  logo:
-  google_analytics: G-PMJ5J7PFMX
-  copyright:
-    since: 2026
-    name: co-naut
-  menu:
-    Home: /
-    About: /about
-    GitHub: https://github.com/co-naut
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

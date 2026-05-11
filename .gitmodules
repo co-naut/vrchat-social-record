@@ -1,3 +1,6 @@
 [submodule "themes/themes/brewski"]
 	path = themes/themes/brewski
 	url = https://github.com/tiaanduplessis/hexo-theme-brewski.git
+[submodule "themes/hexo-theme-next"]
+	path = themes/hexo-theme-next
+	url = https://github.com/next-theme/hexo-theme-next.git
