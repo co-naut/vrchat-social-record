@@ -8,7 +8,7 @@ subtitle: ''
 description: ''
 keywords:
 author: co-naut
-language: zh
+language: zh-CN
 timezone: ''
 
 # URL
@@ -28,7 +28,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: index.html
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -60,7 +60,7 @@ prismjs:
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: ''
+  path: '/posts'
   per_page: 10
   order_by: -date
 
